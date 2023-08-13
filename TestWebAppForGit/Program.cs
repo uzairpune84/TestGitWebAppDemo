@@ -22,4 +22,10 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+
+
+
+
+
+
 app.Run();
