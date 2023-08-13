@@ -22,6 +22,9 @@ namespace TestWebAppForGit.Pages
         public void OnGet()
         {
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
+
+            //code for build error demo
+            int intVar = 0
         }
     }
 }
