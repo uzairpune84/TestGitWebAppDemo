@@ -24,7 +24,7 @@ namespace TestWebAppForGit.Pages
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
 
             //code for build error demo
-            int intVar = 0
+            int intVar = 0;
         }
     }
 }
